@@ -1,5 +1,5 @@
 # Lidar-fog-ATTO
-## This repository is about a scientific inicitiation that I've developded during my graduation in Physics at University of São Paulo (USP) at the LAF (Laboratory of Atmospheric Physics). The project title is: Lidar measurements of fog occurrence at the ATTO tower.
+This repository is about a scientific inicitiation that I've developded during my graduation in Physics at University of São Paulo (USP) at the LAF (Laboratory of Atmospheric Physics). The project title is: Lidar measurements of fog occurrence at the ATTO tower.
 
 The main objective of this project is to study the correlation between fog occurrence during the dawn and the shallow cloud cover in the morning at the ATTO (Amazon Tall Tower Observatory), located in the Amazon forest. To do so, I've analyzed daily data recorded by a ceilometer - an instrument that works like a LiDAR (Light Detection and Range), emitting light to the atmospheric and recording the amount of light (photons) that is backscattered, being able to detect clouds and inform their heights -  in the period from sep/21 to aug/22. All the files can be founded at [LFA website](https://lfa.if.usp.br/)
 
