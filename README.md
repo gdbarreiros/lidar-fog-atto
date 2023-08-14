@@ -1,4 +1,4 @@
-# Lidar-fog-ATTO
+# lidar-fog-atto
 
 This repository is about a scientific inicitiation that I've developded during my graduation in Physics at University of São Paulo (USP) at the LAF (Laboratory of Atmospheric Physics). The project title is: Lidar measurements of fog occurrence at the ATTO tower.
 
